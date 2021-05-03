@@ -41,7 +41,9 @@ HTML,CSS,JAVASCRIPT.
 
 Email:eclinejerutokoech@gmail.com.
 
+
 <h1>License</h1>
 
+[MIT License](./LICENSE)
 
 Copyright (c) 2021 (Ecline Koech)
