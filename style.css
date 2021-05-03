@@ -1,3 +1,8 @@
 body{
     background-color: beige;
 }
+.daily-produce{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9CD_32IG2pQ9409givcpJj2ugJnqcsU8tvDJhiziPHq4SiNYnZ6VtlGuXyT8k0G1cXA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
