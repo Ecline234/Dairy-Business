@@ -1,12 +1,17 @@
 body{
     background-color: beige;
+    width: 600vh;
+    height: 600vh;
+    overflow: scroll;
 }
 .daily-produce{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9CD_32IG2pQ9409givcpJj2ugJnqcsU8tvDJhiziPHq4SiNYnZ6VtlGuXyT8k0G1cXA&usqp=CAU);
     background-repeat: no-repeat;
     background-size: auto;
 }
-.total-produce{
-    background-image: url(https://media02.stockfood.com/largepreviews/MTEzMDI3NTU=/00364605-Pouring-milk-from-Tetrapak-carton-into-glass.jpg);
-    color: whitesmoke;
+.monthly-earnings{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0GikjvvQ_boNf8HDQgWiJn3B_9T_AhskPQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-self: center;
 }
