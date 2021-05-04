@@ -11,7 +11,7 @@ function totalDailyProduction(){
     totalDailyProduction.push({name:"Shade A",litres:shadeA},{name:"Shade B",litres:shadeB},{name:"Shade C",litres:shadeC}{name:"Shade D",litres:shadeD});
     return sum;
 }
-var leapYear = [
+var monthsInAleapYear = [
     {month:"January", days:31},
     {month:"February", days:29},
     {month:"March", days:31},
@@ -24,5 +24,9 @@ var leapYear = [
     {month:"October", days:31},
     {month:"November", days:30},
     {month:"December", days:31}];
-
-    let price = 45;
+    
+let n = monthsInAleapYear.length;
+for(let i = 0; i<n;1++){
+    console.log(monthsInAleapYear[1].month + " has " +monthsInAleapYear[1].days + " days")
+}
+console.log(sum);
