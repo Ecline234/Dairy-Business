@@ -16,3 +16,6 @@ body{
     background-size: contain;
     align-self: center;
 }
+h2{
+    font-style: oblique;
+}
