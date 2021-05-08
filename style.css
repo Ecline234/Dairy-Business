@@ -16,8 +16,7 @@ body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0GikjvvQ_boNf8HDQgWiJn3B_9T_AhskPQ&usqp=CAU);
     background-repeat: no-repeat;
     background-size: contain;
-    align-self: center;
-    
+    align-self: center;   
 }
 h2{
     font-style: oblique;
